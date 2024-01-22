@@ -1,0 +1,5 @@
+https://en.wikipedia.org/wiki/List_of_companion_plants
+https://www.companionplantingchart.com/wp-content/uploads/2020/04/Guide-Companion-Planting-Chart.pdf
+
+Initial data and formatting comes from companionplantingchart.com and the avoid and other small parts of
+data come from wikipedia
